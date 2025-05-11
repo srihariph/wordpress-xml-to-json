@@ -14,7 +14,7 @@ A simple TypeScript project to convert WordPress XML export files to structured 
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/wordpress-xml-to-json.git
+git clone https://github.com/srihariph/wordpress-xml-to-json.git
 cd wordpress-xml-to-json
 ```
 
