@@ -1,11 +1,6 @@
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Issues](https://img.shields.io/github/issues/<YOUR_GITHUB_USERNAME>/wordpress-xml-to-json)
-![Pull Requests](https://img.shields.io/github/issues-pr/<YOUR_GITHUB_USERNAME>/wordpress-xml-to-json)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
 # WordPress XML to JSON Converter
